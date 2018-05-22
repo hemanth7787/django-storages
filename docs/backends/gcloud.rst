@@ -19,6 +19,11 @@ settings below.
 Settings
 --------
 
+Bindings setup::
+
+Install and authenticate `Google Cloud Storage bindings <https://pypi.org/project/google-cloud-storage/>`_.
+
+
 To use gcloud set::
 
     DEFAULT_FILE_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
